@@ -1,8 +1,11 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "Hi there!\nI’m the personal bot of Ajstage, an intership recrutment agency based in Paris.\n![esther](https://www.ajstage.com)\n",
+    "HELLO": "Hey, I'm so glad you set ajstage bot up! I am looking for an intership",
+    "INTERNSHIP": "Great! What are you looking for? Computing, Marketing, Sales or HR?",
+    "COMPUTING": "Ok, what is your language or framework?",
+    "MARKETING": "Like web marketing or communication?",
+    "SALES": "So you want to become a sales rep. When are you available?",
+    "HR": "We are hiring :)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
