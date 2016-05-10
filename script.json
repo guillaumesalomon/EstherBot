@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad you test it! How can I help you?",
     "INTERNSHIP": "Great! What are you looking for? Computing, Marketing, Sales or HR?",
     "COMPUTING": "Ok, what is your language or framework?",
-    "ANGULAR": "Ok, I have 3 companies looking for angular developers \n The first one is [Beezup](https://raw.githubusercontent.com/guillaumesalomon/EstherBot/master/img/CAbeez.png)"\n
+    "ANGULAR": "Ok, I have 3 companies looking for angular developers \n![Beezup](https://raw.githubusercontent.com/guillaumesalomon/EstherBot/master/img/CAbeez.png)",
     "MARKETING": "Like web marketing or communication?",
     "SALES": "So you want to become a sales rep. When are you available?",
     "HR": "We are hiring :)",
