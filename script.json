@@ -2,11 +2,13 @@
     "BOT": "Bonjour !\nJe suis Angela le nouveau robot d'assistance conçu par Ajstage pour aider les étudiants.\n",
     "AIDE": "Oui bien sur, comment je peux vous aider ?",
     "STAGE": "Super ! Dans quel domaine ? %[Marketing](postback:marketing) %[Commerce](postback:commerce) %[informatique](postback:informatique)",
-    "INFO": "Ok, sur quelle technologie ?",
-    "ANGULAR": "Ok, I have 3 companies looking for angular developers \n![Beezup](https://raw.githubusercontent.com/guillaumesalomon/EstherBot/master/img/CAbeez.png)",
-    "MARKETING": "Like web marketing or communication?",
-    "SALES": "So you want to become a sales rep. When are you available?",
-    "HR": "We are hiring :)",
+    "INFORMATIQUE": "Ok, sur quelle technologie ?",
+    "ANGULAR": "Ok, nous avons 3 entreprises qui correspondent à votre recherche selon moi.\n![Beezup](https://raw.githubusercontent.com/guillaumesalomon/EstherBot/master/img/CAbeez.png) \n l'offre est accessible içi %[developpeur angular - Beez](http://www.ajstage.com/offre/Assistant-e-Manager-Support-Technique-chez-BeezUP)",
+    "MARKETING": "Web marketing ou chef de produit ?",
+    "COMMERCE": "Vous voulez devenir commercial. Vous cherchez dans quel zone géographique ? %[Paris](postback:paris) %[Province](postback:province)",
+    "PARIS": "A partir de quelle date ?",
+    "PROVINCE": "Dans une région particuluière ? ",
+
     
     
     "CONNECT ME": "",
