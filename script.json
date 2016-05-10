@@ -1,7 +1,7 @@
 {
     "BOT": "Bonjour !\nJe suis Angela le nouveau robot d'assistance conçu par Ajstage pour aider les étudiants.\n",
     "AIDE": "Oui bien sur, comment je peux vous aider ?",
-    "STAGE": "Super ! Dans quel domaine ? %[Informatique](postback:info), %[Marketing](postback:marketing) ou %[Commerce](postback:commerce) ?",
+    "STAGE": "Super ! Dans quel domaine : %[Informatique](postback:informatique), %[Marketing](postback:marketing) ou %[Commerce](postback:commerce) ?",
     "INFO": "Ok, sur quelle technologie ?",
     "ANGULAR": "Ok, I have 3 companies looking for angular developers \n![Beezup](https://raw.githubusercontent.com/guillaumesalomon/EstherBot/master/img/CAbeez.png)",
     "MARKETING": "Like web marketing or communication?",
