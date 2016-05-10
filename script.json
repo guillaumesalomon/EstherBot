@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Ajstage, an intership recrutment agency based in Paris.\n![esther](https://www.ajstage.com)\n",
-    "HELLO": "Hey, I'm so glad you test it! How can I help you?",
+    "BOT": "Hi there!\nI’m the personal bot of Ajstage, an intership recrutment agency based in Paris.\n",
+    "HELLO": "Hey, of course! How can I help you?",
     "INTERNSHIP": "Great! What are you looking for? Computing, Marketing, Sales or HR?",
     "COMPUTING": "Ok, what is your language or framework?",
     "ANGULAR": "Ok, I have 3 companies looking for angular developers \n![Beezup](https://raw.githubusercontent.com/guillaumesalomon/EstherBot/master/img/CAbeez.png)",
